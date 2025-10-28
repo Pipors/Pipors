@@ -18,35 +18,14 @@ strengthen my skills, and grow together through meaningful projects.
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,fastify,nestjs,express,python,cpp,mysql,sqlite,bash,git,docker,linux&perline=8" />
-</p>
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnasAtbir&show_icons=true&theme=radical" alt="Anas's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasAtbir&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/anas-atbir" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:anasatbir.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ## 🧰 Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/html.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/css.svg" alt="Bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
@@ -85,10 +64,15 @@ strengthen my skills, and grow together through meaningful projects.
 
 ---
 
-## 📫 Contact Me
-- 💌 Email: anasatbir4@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/anasatbir](https://linkedin.com/in/anasatbir)
-
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/anasatbir" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anasatbir4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 ---
 
 *Thanks for visiting! Check out my pinned repositories below 👇*
