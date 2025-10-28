@@ -33,7 +33,8 @@ Currently looking for an internship in IT or cybersecurity.
 ---
 
 ## 📈 GitHub Stats
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipors&show_icons=true&theme=default)
+![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipors&show_icons=true&theme=dark)
+
 
 ---
 
