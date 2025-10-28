@@ -34,8 +34,8 @@ Currently looking for an internship in IT or cybersecurity.
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasatbir&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasatbir&layout=compact&theme=tokyonight&langs_count=6" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=piporsr&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipors&layout=compact&theme=tokyonight&langs_count=6" height="150"/>
 </p>
 
 
