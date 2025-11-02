@@ -59,7 +59,6 @@ strengthen my skills, and grow together through meaningful projects.
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pipors&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipors&layout=compact&theme=tokyonight&langs_count=6" height="150"/>
 </p>
 
 
