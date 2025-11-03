@@ -69,7 +69,7 @@ strengthen my skills, and grow together through meaningful projects.
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/anasatbir" target="_blank">
+  <a href="https://www.linkedin.com/in/anas-a-66945b17a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:anasatbir4@gmail.com">
