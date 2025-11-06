@@ -9,7 +9,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=I+am+Anas+Atbir;💻Fullstack+Dev;🔐Web+Enthusiast;🌍Life+Long+Learner" alt="Typing SVG" />
   </a>
 </p> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F74E&width=435&lines=💻Fullstack+Dev;🔐Web+Enthusiast;🌍Life+Long+Learner" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F74E&width=435&lines=💻Fullstack+Dev;🔐Web+Enthusiast;🌍Life+Long+Learner"alt="Typing SVG" />
+  </a>
+</p>
 
 
 ---
