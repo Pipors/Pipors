@@ -10,7 +10,7 @@
   </a>
 </p> -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=15F74E&vCenter=true&multiline=true&width=700&lines=%F0%9F%92%BB+Full-Stack+Developer+%7C+%F0%9F%94%90+Web+Security+Enthusiast+%7C+%F0%9F%8C%8D+Lifelong+Learner"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&pause=1000&color=15F74E&vCenter=true&multiline=true&width=700&lines=%F0%9F%92%BB+Full-Stack+Developer+%7C+%F0%9F%94%90+Web+Security+Enthusiast+%7C+%F0%9F%8C%8D+Lifelong+Learner"/></a>
 </p>
 
 
