@@ -1,8 +1,15 @@
 <h1 align="center">👋 Hey there! I'm Anas</h1>
 
-<p align="center">
+<!-- <p align="center">
   💻 <b>Full-Stack Developer</b> | 🔐 <b>Web Security Enthusiast</b> | 🌍 <b>Lifelong Learner</b>
+</p> -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=I+am+Anas+Atbir;💻Fullstack+Dev;🔐Web+Enthusiast;🌍Life+Long+Learner" alt="Typing SVG" />
+  </a>
 </p>
+
 
 ---
 
