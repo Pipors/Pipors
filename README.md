@@ -57,12 +57,14 @@ strengthen my skills, and grow together through meaningful projects.
 ---
 
 ## 🌟 Featured Projects
-- [🎮 Multiplayer Pong Game](https://github.com/anasatbir/pong-multiplayer)  
+- [🎮 Multiplayer Pong Game](https://github.com/Pipors/pong-multiplayer)  
   Realtime Pong with tournaments using Fastify + Socket.IO.
 
-- [💡 Inception (C++)](https://github.com/anasatbir/Inception)  
-  Diving into DevOps by learning Docker
+- [💡 Stock-X](https://github.com/Pipors/Stock-X)  
+  Real Time Inventory Reporting dashboard, and demand forecasting suitable for all multiple types of business
 
+- [💡 Terroir-Bladi](https://github.com/Pipors/Terroir-Bladi)  
+  Web application for promoting moroccan local cooperatives
 
 ---
 
