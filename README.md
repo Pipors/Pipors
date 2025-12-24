@@ -11,7 +11,7 @@
 </p> -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=13B6F7FF&vCenter=false&multiline=false&width=900&lines=%F0%9F%92%BB+Full-Stack+Developer+%7C+%F0%9F%94%90+Web+Security+Enthusiast+%7C+%F0%9F%8C%8D+Lifelong+Learner"/></a>
-  <a href="https://badge.mediaplus.ma/binary/aatbir"> <img src="https://badge.mediaplus.ma/binary/aatbir"/></a>
+ <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/aatbir?42Network=off" alt="aatbir's 42 stats" /></a>
   
 </p>
 
